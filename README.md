@@ -1,2 +1,2 @@
-NAME - RITHIN R
-USN - 4MH21CS076
+- **Name:** Rithin R
+- **USN:** 4MH21CS076
