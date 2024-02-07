@@ -1,2 +1,4 @@
 - **Name:** Rithin R
 - **USN:** 4MH21CS076
+- **Sem:** 5
+- **Section:** C
